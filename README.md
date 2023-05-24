@@ -55,7 +55,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kyle006.kyle006&right_color=blue"  />
+  <img src="https://profile-counter.glitch.me/kyle006/count.svg?"  />
 </div>
 
 ###

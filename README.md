@@ -20,7 +20,7 @@
 
 ###
 
-<p align="center">My name is <strong>Kyle</strong>, and I am a <strong>software engineer</strong> in the first year of the apprenticeship at Swisscom.<br>I'm eager to expand my programming skills and learn new things.</p>
+<p align="center">My name is <strong>Kyle</strong>, and I am a <strong>software engineer</strong> in the first year of the apprenticeship at <strong>Swisscom</strong>.<br>I'm eager to expand my programming skills and learn new things.</p>
 
 ###
 

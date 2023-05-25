@@ -59,6 +59,9 @@
 </div>
 
 ###
+<img src="https://raw.githubusercontent.com/kyle006/kyle006/output/snake.svg" alt="Snake animation" />
+
+###
 
 <!--
 **kyle006/kyle006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

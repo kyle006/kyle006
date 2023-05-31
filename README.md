@@ -47,7 +47,8 @@
 ###
 
 <div align="center">
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kyle006&theme=radical)
+###
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kyle006&theme=radical)
  
   ###
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kyle006&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="145" alt="languages graph"  />

@@ -54,8 +54,11 @@
 
 
 <div align="center">
-  <img src="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kyle006&theme=radical)" />
-  <img src="https://profile-counter.glitch.me/kyle006/count.svg?"  />
+
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kyle006&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kyle006&theme=radical)
+  
 </div>
 
 ###

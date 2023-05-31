@@ -52,7 +52,7 @@
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kyle006&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kyle006&theme=radical)
- 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kyle006&theme=radical)
   
 </div>
 

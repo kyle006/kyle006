@@ -47,7 +47,10 @@
 ###
 
 <div align="center">
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kyle006&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kyle006&theme=radical)
   <img src="https://streak-stats.demolab.com?user=kyle006&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  
 </div>
 
 ###
@@ -56,9 +59,7 @@
 <div align="center">
 
   
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kyle006&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kyle006&theme=radical)
-  
+
 </div>
 
 ###

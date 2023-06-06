@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-    <img src="https://github.com/kyle006/kyle006/assets/117977568/0b3b9891-145d-4149-be79-0ce648a1c02b" height="25" alt="Header" 
+    <img src="https://github.com/kyle006/kyle006/assets/117977568/0b3b9891-145d-4149-be79-0ce648a1c02b" alt="Header" 
  />
 </div>
 

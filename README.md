@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  ![Header](./![github-header-image](https://github.com/kyle006/kyle006/assets/117977568/802e1653-e577-46e5-b9b9-684fb234e9cf)
+  
 
 </div>
 

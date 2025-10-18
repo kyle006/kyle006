@@ -70,11 +70,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/kyle006/count.svg?"  />
-</div>
 
-###
 
 
 <!--
